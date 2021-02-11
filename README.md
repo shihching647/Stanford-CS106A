@@ -27,3 +27,12 @@ Assignment #5 — Yahtzee!™  實作桌遊-快艇骰子
 Assignment #6 — NameSurfer 實作一個搜尋名字熱門程度的查詢系統, 使用圖表及表格呈現搜尋的結果
 
 Assignment #7 — FacePamphlet 實作一個簡易的的社群軟體 (未完成)
+
+
+=======================================
+
+問題討論:
+
+1.ACM package在64位元的作業系統會出現Can't load IA 32-bit .dll on a AMD 64-bit platform的error
+
+解法可參考:http://blog.douyuan.net/2014/04/acm-java-task-force-dll-error.html
