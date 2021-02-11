@@ -1,0 +1,4 @@
+Hi there,
+this is a test text.
+Please the file line by line.
+This is the final sentence.
