@@ -6,6 +6,7 @@ Stanford CS106A Programming Methodology
 https://see.stanford.edu/Course/CS106A
 
 Instructor: Sahami, Mehran
+
 Textbook: The Art and Science of Java by Eric Roberts
 
 
