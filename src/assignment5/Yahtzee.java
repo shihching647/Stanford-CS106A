@@ -4,12 +4,12 @@ package assignment5;/*
  * This program will eventually play the Yahtzee game.
  */
 
-import acm.io.*;
-import acm.program.*;
+import acm.io.IODialog;
+import acm.program.GraphicsProgram;
 import assignment5.lib.YahtzeeConstants;
 import assignment5.lib.YahtzeeDisplay;
 
-import java.util.*;
+import java.util.ArrayList;
 
 public class Yahtzee extends GraphicsProgram implements YahtzeeConstants {
 	

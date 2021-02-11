@@ -1,9 +1,10 @@
 package assignment5;
 
-import java.util.ArrayList;
-import acm.program.*;
+import acm.program.ConsoleProgram;
 
-public class Test extends ConsoleProgram{
+import java.util.ArrayList;
+
+public class Test extends ConsoleProgram {
 
 	public void run(){
 		for(int i = 0; i < 1000; i++) {

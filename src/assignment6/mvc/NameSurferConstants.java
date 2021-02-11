@@ -16,7 +16,7 @@ public interface NameSurferConstants {
 	public static final int APPLICATION_HEIGHT = 600;
 
 /** The name of the file containing the data */
-	public static final String NAMES_DATA_FILE = "Z:\\Java_Project\\Stanford_CS106A\\src\\assignment6\\names-data.txt";
+	public static final String NAMES_DATA_FILE = "src/assignment6/names-data.txt";
 
 /** The first decade in the database */
 	public static final int START_DECADE = 1900;
